@@ -109,6 +109,12 @@ body {
     border-radius: 8px;
 }
 
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    padding: 24px;
+}
+
 ul {
     list-style: none;
     display: flex;
