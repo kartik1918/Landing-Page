@@ -31,6 +31,22 @@ body {
     margin: 14px 0px;
 }
 
+.round-img {
+    width: 200px;
+    height: 190px;
+    border: 5px solid #3882f6;
+    border-radius: 12px;
+}
+
+.secondary-content {
+    display: flex;
+    gap: 38px;
+    max-width: 32px;
+    margin-left: 270px;
+    margin-top: 52px;
+    padding-bottom: 62px;
+}
+
 button {
     background-color: #3882f6;
     color: #fff;
@@ -38,6 +54,12 @@ button {
     padding: 8px 32px;
     border-style: none;
     border-radius: 8px;
+}
+
+.info-text {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin-top: 5px;
 }
 
 ul {
@@ -68,3 +90,12 @@ p {
     color: #f9faf8;
     font-weight: bolder;
 }
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+
